@@ -1,0 +1,200 @@
+.jumbotron
+{
+  background: #C0C0C0;
+  background-size: auto;
+}
+.jumbotron-btm
+{
+  background-image: url('img/drywall_img8.jpeg');
+  background-size: cover;
+  background-color: rgba(0,0,0,0.3);
+}
+
+
+/*
+          Google Fonts:
+
+              font-family: 'Aclonica', sans-serif;
+
+              font-family: 'Cinzel Decorative', cursive;
+
+              font-family: 'IM Fell English SC', serif;
+
+              font-family: 'Almendra', serif;
+
+              font-family: 'Pirata One', cursive;
+
+*/
+
+
+/* Start Customized Fonts */
+.hdr_ttl
+{
+  font-family: 'Aclonica', sans-serif;
+
+  font-size: 75px;
+  color: #F00;
+}
+.slg_ttl
+{
+  font-family: 'Aclonica', sans-serif;
+  font-size: 35px;
+  color: #000;
+}
+
+.brn
+{
+  font-family: 'Almendra', serif;
+  font-size: 30px;
+}
+
+.mnu
+{
+  font-family: 'IM Fell English SC', serif;
+  font-size: 25px;
+}
+
+.bnr-h2
+{
+  font-family: 'IM Fell English SC', serif;
+  color: #F00;
+  font-size: 35px;
+}
+
+.bnr-h21
+{
+  font-family: 'IM Fell English SC', serif;
+  color: #800000;
+  font-size: 35px;
+}
+
+.bnr-h3
+{
+  font-family: 'IM Fell English SC', serif;
+  color: #F00;
+  font-size: 35px;
+}
+.bnr-h3-blck
+{
+  font-family: 'IM Fell English SC', serif;
+  color: #000;
+  font-size: 35px;
+}
+
+.bnr-h5
+{
+  font-family: 'Cinzel Decorative', cursive;
+  color: #000;
+  font-size: 17px;
+}
+.bnr-h51
+{
+  font-family: 'Cinzel Decorative', cursive;
+  color: #800000;
+  font-size: 25px;
+}
+
+.bnr-h52
+{
+  font-family: 'Cinzel Decorative', cursive;
+  color: #800000;
+  font-size: 17px;
+}
+
+.des-p
+{
+  font-family: 'Pirata One', cursive;
+  color: #000;
+  font-size: 20px;
+}
+
+.des-p1
+{
+  font-family: 'Aclonica', sans-serif;
+  color: #000;
+  font-size: 17px;
+}
+
+.ftr-text
+{
+  font-family: 'Pirata One', cursive;
+  color: #F00;
+  font-size: 20px;
+}
+.ftr-text a
+{
+  font-family: 'Cinzel Decorative', cursive;
+  color: #006400;
+  font-size: 22px;
+}
+
+.boxed-text
+{
+  border: 3px solid #000;
+  padding: 7px;
+}
+
+.cnt-txt
+{
+  font-family: 'Cinzel Decorative', cursive;
+  font-size: 13px;
+  color: #800000;
+}
+
+.tel-txt
+{
+  font-family: 'Aclonica', sans-serif;
+  font-size: 15px;
+  color: #000;
+}
+
+.eml-txt
+{
+  font-family: 'Aclonica', sans-serif;
+  font-size: 15px;
+  color: #800000;
+}
+
+.loc-txt
+{
+  font-family: 'Cinzel Decorative', cursive;
+  color: #800000;
+  font-size: 15px;
+}
+/* End Customized Fonts */
+
+/* Start Customized Images */
+
+.abt_img
+{
+  border-radius: 35px;
+  border: 4px double #F00;
+  box-shadow: 7px 7px 7px #000;
+  height: 150px;
+  width: 250px;
+  margin-bottom: 10px;
+}
+
+.intel_img
+{
+  border-radius: 30px;
+  border: 5px ridge #F00;
+  box-shadow: 10px 10px 10px #000;
+  height: 250px;
+  width: 100%;
+  margin-bottom: 20px;
+  background-size: contain;
+}
+
+.intel_img1
+{
+  border-radius: 25px;
+  border: 5px double #000050;
+  box-shadow: 10px 10px 10px #000;
+  height: 250px;
+  width: 100%;
+  margin-bottom: 20px;
+  background-size: contain;
+}
+
+/* End Customized Images */
