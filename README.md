@@ -7,13 +7,13 @@ _Website Code_
 
 #### Code Languages & Support ####
 
-_Bootstrap 3_
-_FlexBox_
+_Bootstrap 3_<br/>
+_FlexBox_<br/>
 _PhP 7.4_
 
 #### Designer ####
-_Loves Web Firm_
-[www.loveswebfirm.com](http://www.loveswebfirm.com)
+_Loves Web Firm_<br/>
+[www.loveswebfirm.com](http://www.loveswebfirm.com)<br/>
 **Celtic Hacker (AKA C3lt1c H4ck3r)**
 
 #### Server Information ####
